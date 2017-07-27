@@ -6,4 +6,4 @@ i3lockplus: is a simple script which use i3lock to lock screen with nice and cut
 `imagemagick` and `i3lock`
 
 ### Screenshot
-(https://raw.githubusercontent.com/vahit/i3lockplus/master/screenshot.png "screenshot")
+![alt scrsht]1(https://raw.githubusercontent.com/vahit/i3lockplus/master/screenshot.png "screenshot")
